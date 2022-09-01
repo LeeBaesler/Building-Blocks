@@ -1,29 +1,17 @@
 #red {
-    display: inline-flex;
     background-color: red;
-    width: 100px;
-    height: 100px;
-    margin: 10px;
 }
-
 #blue {
-    display: inline-flex;
     background-color: blue;
-    width: 100px;
-    height: 100px;
-    margin: 10px;
 }
 #green {
-    display: inline-flex;
     background-color: green;
-    width: 100px;
-    height: 100px;
-    margin: 10px;
-  
 }
 #yellow {
-    display: inline-flex;
     background-color: yellow;
+}
+.blocks {
+    display: inline-flex;
     width: 100px;
     height: 100px;
     margin: 10px;
